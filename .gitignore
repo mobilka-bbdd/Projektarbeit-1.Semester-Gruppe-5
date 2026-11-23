@@ -1,2 +1,6 @@
 /.DS_Store
 /.obsidian
+venv/
+.venv/
+__pycache__/
+*.pyc
