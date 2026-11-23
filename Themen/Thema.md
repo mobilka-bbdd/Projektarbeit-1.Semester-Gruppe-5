@@ -1,1 +1,1 @@
-[[thema2.py]]
+[thema2](../Code/thema2.py)
