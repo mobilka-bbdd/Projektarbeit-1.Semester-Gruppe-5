@@ -1,1 +1,1 @@
-[[PROJEKTARBEIT WS26-27 Rechen- und Lerntool TM -06.0- 22.11.26 CH.pdf]]
+[PROJEKTARBEIT WS26-27 Rechen- und Lerntool TM -06.0- 22.11.26 CH](PROJEKTARBEIT%20WS26-27%20Rechen-%20und%20Lerntool%20TM%20-06.0-%2022.11.26%20CH.pdf)
