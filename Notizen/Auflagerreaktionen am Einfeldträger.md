@@ -50,4 +50,4 @@ verglichen. Die Testfälle werden zusätzlich in test_themen.py
 ohne Benutzeroberfläche ausgeführt.
 
 ***Quellcode:***\
-[Auflagerreaktionen am Einfeldträger](../themen/Auflagerreaktionen%20am%20Einfeldträger.py)
+[auflager](../themen/auflager.py)

@@ -58,4 +58,4 @@ verglichen. Die Testfälle werden zusätzlich in test_themen.py
 ohne Benutzeroberfläche ausgeführt.
 
 ***Quellcode:***\
-[Schwerpunkt zusammengesetzter Flächen](../themen/Schwerpunkt%20zusammengesetzter%20Flächen.py)
+[schwerpunkt](../themen/schwerpunkt.py)
