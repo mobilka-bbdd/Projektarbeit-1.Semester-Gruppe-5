@@ -7,7 +7,7 @@ beliebiger Lage auf dem Träger. Neben den Ergebnissen wird der
 Rechenweg schrittweise dargestellt, damit die Berechnung
 nachvollzogen und zum Lernen genutzt werden kann.
 
-***Geplannte Eingaben:***\
+***Geplannte Eingaben:***
 - Gesamtlänge des Trägers
 - Positionen der beiden Auflager
 - Beträge und Positionen der Einzellasten
