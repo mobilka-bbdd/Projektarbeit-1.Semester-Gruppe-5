@@ -1,1 +1,1 @@
-[](Auflagerreaktionen%20am%20Einfeldträger.py)
+[[Auflagerreaktionen am Einfeldträger.py]]

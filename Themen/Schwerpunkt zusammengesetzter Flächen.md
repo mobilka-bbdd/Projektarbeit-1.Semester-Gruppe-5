@@ -1,1 +1,1 @@
-[](Schwerpunkt%20zusammengesetzter%20Flächen.py)
+[[Schwerpunkt zusammengesetzter Flächen.py]]
