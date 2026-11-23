@@ -1,5 +1,5 @@
 
-*Beschreibung und Ziel:*\
+***Beschreibung und Ziel:***\
 Der Rechner soll den Flächenschwerpunkt zusammengesetzter ebener
 Flächen bestimmen.
 
@@ -9,7 +9,7 @@ zusammengesetzt. Aussparungen werden ebenfalls berücksichtigt.
 Die Anwendung zeigt den gesamten Flächeninhalt, die Koordinaten
 des Gesamtschwerpunktes und einen nachvollziehbaren Rechenweg.
 
-*Geplante Eingaben:* \
+***Geplante Eingaben:*** \
 Als Bedienkonzept ist vorgesehen:
 
 - Auswahl des Teilflächentyps: Rechteck, Dreieck oder Kreis
@@ -23,7 +23,7 @@ Die genaue Eingabemaske wird im Oberflächenentwurf festgelegt.
 
 Dezimalzahlen mit Punkt und Komma werden akzeptiert.
 
-*Eingabeprüfung:*\
+***Eingabeprüfung:***\
 Die Anwendung prüft:
   
 - leere Eingabefelder
@@ -36,7 +36,7 @@ Teilfläche im gewählten Koordinatensystem passen.
   
 Fehler werden verständlich erklärt, ohne dass die Anwendung abstürzt.
 
-*Ergebnisse und Rechenweg:*\
+***Ergebnisse und Rechenweg:***\
 Ausgegeben werden:
 
 - eine Tabelle der Teilflächen mit Flächeninhalt und
@@ -48,7 +48,7 @@ Ausgegeben werden:
 
 Die Ergebnisse werden mit Einheiten und sinnvoller Rundung angezeigt.
 
-*Validierung:*\
+***Validierung:***\
 Mindestens zwei Testfälle werden dokumentiert:
 
 1. Eine vollständige Handrechnung.
@@ -58,5 +58,5 @@ Sollwert, berechneter Istwert und Abweichung werden tabellarisch
 verglichen. Die Testfälle werden zusätzlich in test_themen.py
 ohne Benutzeroberfläche ausgeführt.
 
-*Quellcode:*\
+***Quellcode:***\
 [Schwerpunkt zusammengesetzter Flächen](../Code/Schwerpunkt%20zusammengesetzter%20Flächen.py)

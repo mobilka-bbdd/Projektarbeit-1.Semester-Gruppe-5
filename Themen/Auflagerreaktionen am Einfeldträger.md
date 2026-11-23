@@ -1,4 +1,4 @@
-*Beschreibung un Ziele:*\
+***Beschreibung un Ziele:***\
 Der Rechner soll die Auflagerreaktionen eines statisch bestimmten
 Einfeldträgers mit und ohne Kragarm bestimmen.
 
@@ -7,7 +7,7 @@ beliebiger Lage auf dem Träger. Neben den Ergebnissen wird der
 Rechenweg schrittweise dargestellt, damit die Berechnung
 nachvollzogen und zum Lernen genutzt werden kann.
 
-*Geplannte Eingaben:*\
+***Geplannte Eingaben:***\
 - Gesamtlänge des Trägers
 - Positionen der beiden Auflager
 - Beträge und Positionen der Einzellasten
@@ -19,7 +19,7 @@ mit und ohne Kragarm.
 
 Dezimalzahlen mit Punkt und Komma werden akzeptiert.
 
-*Eigabeprüfung:*\
+***Eigabeprüfung:***\
 Die Anwendung prüft:
 
 - leere Eingabefelder
@@ -30,7 +30,7 @@ Die Anwendung prüft:
 
 Fehler werden verständlich erklärt, ohne dass die Anwendung abstürzt.
 
-*Ergebnisse und Rechenweg:*\
+***Ergebnisse und Rechenweg:***\
 Ausgegeben werden:
 
 - die Auflagerreaktionen mit Einheit und sinnvoller Rundung
@@ -39,7 +39,7 @@ Ausgegeben werden:
 - eingesetzte Zahlen und Zwischenergebnisse
 - die schrittweise Berechnung der Auflagerreaktionen
 
-*Validierung:*\
+***Validierung:***\
 Mindestens zwei Testfälle werden dokumentiert:
 
 1. Eine vollständige Handrechnung.
@@ -49,5 +49,5 @@ Sollwert, berechneter Istwert und Abweichung werden tabellarisch
 verglichen. Die Testfälle werden zusätzlich in test_themen.py
 ohne Benutzeroberfläche ausgeführt.
 
-*Quellcode:*\
+***Quellcode:***\
 [Auflagerreaktionen am Einfeldträger](../Code/Auflagerreaktionen%20am%20Einfeldträger.py)
