@@ -1,4 +1,3 @@
-
 ***Beschreibung und Ziel:***\
 Der Rechner soll den Flächenschwerpunkt zusammengesetzter ebener
 Flächen bestimmen.
@@ -59,4 +58,4 @@ verglichen. Die Testfälle werden zusätzlich in test_themen.py
 ohne Benutzeroberfläche ausgeführt.
 
 ***Quellcode:***\
-[Schwerpunkt zusammengesetzter Flächen](../Code/Schwerpunkt%20zusammengesetzter%20Flächen.py)
+[Schwerpunkt zusammengesetzter Flächen](../themen/Schwerpunkt%20zusammengesetzter%20Flächen.py)
