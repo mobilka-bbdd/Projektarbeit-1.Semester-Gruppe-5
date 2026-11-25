@@ -58,7 +58,7 @@ Mindestens zwei Testfälle werden dokumentiert:
 2. Ein Beispiel aus der TM-Vorlesung oder einem Lehrbuch mit Quelle.
 
 Sollwert, berechneter Istwert und Abweichung werden tabellarisch
-verglichen. Die Testfälle werden zusätzlich in test_themen.py
+verglichen. Die Testfälle werden zusätzlich in [test_themen](../test_themen.py)
 ohne Benutzeroberfläche ausgeführt.
 
 ***Quellcode:***\
