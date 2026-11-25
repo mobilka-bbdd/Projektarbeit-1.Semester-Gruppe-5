@@ -52,7 +52,7 @@ Sollwert, berechneter Istwert und Abweichung werden tabellarisch
 verglichen. Die Testfälle werden zusätzlich in test_themen.py
 ohne Benutzeroberfläche ausgeführt.
 
-***Zusätzlicher Funktionsumfang als Hauptthema:***\
+***Zusätzlicher Funktionsumfang als Hauptthema:***
 1. *Dynamische Systemskizze:*\
 	Die Anwendung zeigt den Träger mit seinen Auflagern, Einzellasten,
 	Gleichstreckenlasten und Auflagerreaktionen.

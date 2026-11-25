@@ -9,7 +9,7 @@ Seilreibung nach Euler-Eytelwein.
 Die Ergebnisse werden mit einem schrittweisen Rechenweg
 dargestellt.
 
-***Berechnungsumfang:***\
+***Berechnungsumfang:***
 1. *Körper auf der schiefen Ebene:*
 	- Prüfen, ob der Körper haftet oder gleitet
 	- Berechnung des Grenzwinkels
