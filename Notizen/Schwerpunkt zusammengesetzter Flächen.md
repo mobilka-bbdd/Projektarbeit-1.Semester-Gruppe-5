@@ -43,8 +43,7 @@ Fehler werden verständlich erklärt, ohne dass die Anwendung abstürzt.
 ***Ergebnisse und Rechenweg:***\
 Ausgegeben werden:
 
-- eine Tabelle der Teilflächen mit Flächeninhalt und
- Schwerpunktkoordinaten
+- eine Tabelle der Teilflächen mit Flächeninhalt und Schwerpunktkoordinaten
 - die Kennzeichnung der Aussparungen durch negative Flächenanteile
 - der gesamte Flächeninhalt
 - die Koordinaten des Gesamtschwerpunktes

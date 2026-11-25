@@ -33,8 +33,7 @@ bei der fachlichen Ausarbeitung festgelegt.
 ***Allgemeine Anforderungen:***
 - Eingabe der Größen mit Einheiten
 - Unterstützung von Dezimalzahlen mit Punkt und Komma
-- Prüfung auf leere Felder, nicht numerische Eingaben und
-  physikalisch unzulässige Werte
+- Prüfung auf leere Felder, nicht numerische Eingaben und physikalisch unzulässige Werte
 - Verständliche Fehlermeldungen ohne Programmabsturz
 - Ergebnisse mit Einheiten und sinnvoller Rundung
 - Rechenweg mit Formeln, eingesetzten Zahlen und Zwischenergebnissen
