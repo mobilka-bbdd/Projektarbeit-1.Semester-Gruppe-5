@@ -1,0 +1,1 @@
+# Gemeinsame Hilfsfunktionen für alle Themenmodule (kein Themenmodul)
