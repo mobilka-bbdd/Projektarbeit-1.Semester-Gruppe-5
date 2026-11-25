@@ -44,7 +44,7 @@ Fehler werden verständlich erklärt, ohne dass die Anwendung abstürzt.
 Ausgegeben werden:
 
 - eine Tabelle der Teilflächen mit Flächeninhalt und
-  Schwerpunktkoordinaten
+ Schwerpunktkoordinaten
 - die Kennzeichnung der Aussparungen durch negative Flächenanteile
 - der gesamte Flächeninhalt
 - die Koordinaten des Gesamtschwerpunktes
