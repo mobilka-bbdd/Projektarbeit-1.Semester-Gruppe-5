@@ -1,3 +1,6 @@
+***Rolle im Projekt:***\
+Dieses Thema wird als Hauptthema vollständig ausgearbeitet.
+
 ***Beschreibung un Ziele:***\
 Der Rechner soll die Auflagerreaktionen eines statisch bestimmten
 Einfeldträgers mit und ohne Kragarm bestimmen.
@@ -48,6 +51,24 @@ Mindestens zwei Testfälle werden dokumentiert:
 Sollwert, berechneter Istwert und Abweichung werden tabellarisch
 verglichen. Die Testfälle werden zusätzlich in test_themen.py
 ohne Benutzeroberfläche ausgeführt.
+
+***Zusätzlicher Funktionsumfang als Hauptthema:***\
+1. *Dynamische Systemskizze:*\
+	Die Anwendung zeigt den Träger mit seinen Auflagern, Einzellasten,
+	Gleichstreckenlasten und Auflagerreaktionen.
+
+	Die Darstellung passt sich an die eingegebenen Werte an und
+	berücksichtigt Träger mit und ohne Kragarm.
+2. *Erklärungen:*\
+	Die verwendeten Begriffe und Formeln werden kurz erläutert.
+	Die fachlichen Quellen werden angegeben.
+3. *Übungsmodus:*\
+	Die Anwendung erzeugt Aufgaben mit zufälligen, sinnvollen Werten.
+	Die Nutzer geben die gesuchten Auflagerreaktionen ein.
+
+	Die Antworten werden mit einer festgelegten Toleranz geprüft.
+	Anschließend erhalten die Nutzer eine Rückmeldung und können
+	sich auf Wunsch den vollständigen Lösungsweg anzeigen lassen.
 
 ***Quellcode:***\
 [auflager](../themen/auflager.py)

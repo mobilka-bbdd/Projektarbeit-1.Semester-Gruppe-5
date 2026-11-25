@@ -1,3 +1,6 @@
+***Rolle im Projekt:***\
+Dieses Thema wird als weiteres Thema teilweise ausgearbeitet.
+
 ***Beschreibung und Ziel:***\
 Der Rechner soll den Flächenschwerpunkt zusammengesetzter ebener
 Flächen bestimmen.
